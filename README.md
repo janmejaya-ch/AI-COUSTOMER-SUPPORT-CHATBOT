@@ -3,45 +3,129 @@
 ## Developer
 **Janmejaya Choudhury**
 
-## Project Description
-AI Customer Support Chatbot is a simple customer support application built using Python, HTML, CSS, and JavaScript. It allows users to ask basic questions. If the chatbot cannot answer, it generates a support ticket.
+---
+
+## Project Overview
+
+The AI Customer Support Chatbot is a web-based application that provides intelligent responses to customer queries using Artificial Intelligence. It features a clean and responsive chat interface built with HTML, CSS, and JavaScript, while the backend is powered by Python Flask. The chatbot processes user messages and generates AI-based responses in real time.
+
+---
+
+## Objective
+
+The objective of this project is to build an AI-powered customer support system that can answer customer questions quickly and accurately through a simple web interface.
+
+---
+
+## Technology Stack
+
+- Python
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+- Groq API
+
+---
 
 ## Features
-- AI-inspired chatbot interface
-- Customer query handling
-- Support ticket generation
-- Clean and responsive UI
+
+- AI-powered chatbot
+- Interactive chat interface
+- Real-time responses
+- Responsive design
 - Easy to use
+- Simple project structure
+- Fast response generation
 
-## Technologies Used
-- Python
-- HTML
-- CSS
-- JavaScript
+---
 
-## Project Files
-- app.py
-- index.html
-- style.css
-- script.js
-- requirements.txt
+## Project Structure
 
-## How to Run
-1. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
-2. Run:
-   ```
-   python app.py
-   ```
-3. Open the application in your browser.
+```
+AI-Customer-Support-Chatbot/
+│
+├── app.py
+├── requirements.txt
+├── LICENSE
+├── README.md
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── style.css
+    └── script.js
+```
+
+---
+
+## Installation
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/AI-Customer-Support-Chatbot.git
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the application
+
+```bash
+python app.py
+```
+
+### Open in Browser
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+## Workflow
+
+1. User opens the chatbot.
+2. User enters a question.
+3. Flask receives the request.
+4. The AI model processes the message.
+5. The chatbot generates a response.
+6. The response is displayed on the screen.
+
+---
+
+## Output
+
+- AI-generated responses
+- Interactive customer support
+- Fast and accurate replies
+
+---
 
 ## Future Improvements
-- Google Gemini API integration
-- User authentication
-- Database support
-- Live chat functionality
+
+- Support ticket generation
+- Chat history
+- User login system
+- Database integration
+- Voice support
+- Multi-language support
+
+---
 
 ## License
+
 This project is licensed under the MIT License.
+
+---
+
+## Author
+
+**Janmejaya Choudhury**
+
+AI Customer Support Chatbot Project (2026)
