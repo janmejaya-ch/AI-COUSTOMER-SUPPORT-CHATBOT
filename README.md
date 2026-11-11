@@ -33,7 +33,7 @@ Screenshots
 
 Development Environment
 
-|[image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/8b8d6c13768f51066552560326728cf40e78e3db/WhatsApp%20Image%202026-11-11%20at%209.01.0CODE.jpeg)
+![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/8b8d6c13768f51066552560326728cf40e78e3db/WhatsApp%20Image%202026-11-11%20at%209.01.0CODE.jpeg)
 
 Project structure and development environment.
 
