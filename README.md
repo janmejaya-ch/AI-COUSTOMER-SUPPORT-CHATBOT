@@ -29,25 +29,35 @@ Key Features
 
 ---
 
-Screenshots
+Project Architecture & Workflow
 
-Development Environment
+
+DEVELOPEMENT ENVIONMENT & SOURCE CODE
 
 ![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/8b8d6c13768f51066552560326728cf40e78e3db/WhatsApp%20Image%202026-11-11%20at%209.01.0CODE.jpeg)
 
 Project structure and development environment.
+Display the project directory application file, source code structure used during development. 
 
-Chatbot Interface
+
+
+
+
+ CHATBOT INTERFACE
 
 "Chatbot Interface" ![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/c4fbe1208d9876f77c83ae429e90ba398df2c932/WhatsApp%20Image%202026-11-11%20at%209.01.07%20AM.uii.jpeg)
 
 AI-powered conversational interface.
+Shows the interactive chatbot interface where user submit queries and receive AI generated response .
 
-Support Ticket System
+
+
+
 
 "Support Ticket" ![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/ffb2c5894749dc90a985a870c2bb162b595b4632/WhatsApp%20Image%202026-11-11%20at%209.01.TICKET.jpeg)
 
 Customer issue submission and ticket management interface.
+demonstrate the support ticket interface, allowing user to submit issue, select categories, assign priorties,and view recent support requeests.
 
 ---
 
