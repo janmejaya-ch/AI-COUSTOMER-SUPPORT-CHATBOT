@@ -39,7 +39,7 @@ Project structure and development environment.
 
 Chatbot Interface
 
-"Chatbot Interface" (screenshots/chatbot-interface.png)
+"Chatbot Interface" ![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/c4fbe1208d9876f77c83ae429e90ba398df2c932/WhatsApp%20Image%202026-11-11%20at%209.01.07%20AM.uii.jpeg)
 
 AI-powered conversational interface.
 
