@@ -45,7 +45,7 @@ AI-powered conversational interface.
 
 Support Ticket System
 
-"Support Ticket" (screenshots/support-ticket.png)
+"Support Ticket" ![image alt](https://github.com/janmejaya-ch/AI-COUSTOMER-SUPPORT-CHART-BOT/blob/ffb2c5894749dc90a985a870c2bb162b595b4632/WhatsApp%20Image%202026-11-11%20at%209.01.TICKET.jpeg)
 
 Customer issue submission and ticket management interface.
 
