@@ -1,131 +1,198 @@
-# AI Customer Support Chatbot
+AI Customer Support Chatbot
 
-## Developer
-**Janmejaya Choudhury**
+Intelligent Customer Assistance Powered by Generative AI
 
----
-
-## Project Overview
-
-The AI Customer Support Chatbot is a web-based application that provides intelligent responses to customer queries using Artificial Intelligence. It features a clean and responsive chat interface built with HTML, CSS, and JavaScript, while the backend is powered by Python Flask. The chatbot processes user messages and generates AI-based responses in real time.
+Developed by Janmejaya Choudhury
 
 ---
 
-## Objective
+Overview
 
-The objective of this project is to build an AI-powered customer support system that can answer customer questions quickly and accurately through a simple web interface.
+The AI Customer Support Chatbot is a web-based application developed using Python, Flask, and Google Gemini AI. It provides an interactive platform for handling customer queries through AI-generated responses.
 
----
+The application also includes a support ticket system that enables users to submit issues, categorize requests, and select priority levels for further assistance.
 
-## Technology Stack
-
-- Python
-- Flask
-- HTML5
-- CSS3
-- JavaScript
-- Groq API
+The project demonstrates the practical integration of Generative AI into web-based customer support systems.
 
 ---
 
-## Features
+Key Features
 
-- AI-powered chatbot
-- Interactive chat interface
-- Real-time responses
-- Responsive design
-- Easy to use
-- Simple project structure
-- Fast response generation
+- AI-Powered Conversations: Generates intelligent responses using Google Gemini AI.
+- Interactive Chat Interface: Enables users to communicate with the chatbot.
+- Automated Query Handling: Provides AI-generated responses to customer questions.
+- Support Ticket Generation: Allows users to submit support requests.
+- Issue Categorization: Organizes customer issues into categories.
+- Priority Management: Provides priority selection for support tickets.
+- Recent Tickets: Displays recently submitted support requests.
+- Web-Based Interface: Provides access through a web browser.
 
 ---
 
-## Project Structure
+Screenshots
 
-```
-AI-Customer-Support-Chatbot/
+Development Environment
+
+"Project Structure" (screenshots/project-structure.png)
+
+Project structure and development environment.
+
+Chatbot Interface
+
+"Chatbot Interface" (screenshots/chatbot-interface.png)
+
+AI-powered conversational interface.
+
+Support Ticket System
+
+"Support Ticket" (screenshots/support-ticket.png)
+
+Customer issue submission and ticket management interface.
+
+---
+
+Technology Stack
+
+Technology| Application
+Python| Backend Development
+Flask| Web Framework
+Google Gemini AI| AI Response Generation
+HTML5| Frontend Structure
+CSS3| Interface Styling
+JavaScript| Frontend Interaction
+Visual Studio Code| Code Editor
+Git & GitHub| Version Control
+
+---
+
+System Workflow
+
+User
+  |
+  v
+Chatbot Interface
+  |
+  v
+JavaScript
+  |
+  v
+Flask Backend
+  |
+  v
+Google Gemini AI
+  |
+  v
+AI-Generated Response
+  |
+  v
+Response Display
+  |
+  v
+Support Ticket System
+
+---
+
+Project Structure
+
+Customer-Support-Chatbot/
+│
+├── screenshots/
+│   ├── project-structure.png
+│   ├── chatbot-interface.png
+│   └── support-ticket.png
 │
 ├── app.py
+├── index.html
+├── script.js
+├── style.css
 ├── requirements.txt
 ├── LICENSE
-├── README.md
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    ├── style.css
-    └── script.js
-```
+└── README.md
 
 ---
 
-## Installation
+Installation and Setup
 
-### Clone the repository
+Prerequisites
 
-```bash
-git clone https://github.com/your-username/AI-Customer-Support-Chatbot.git
-```
+- Python 3.12 or later
+- Google Gemini API Key
+- Visual Studio Code
+- Internet Connection
 
-### Install dependencies
+1. Clone the Repository
 
-```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+2. Open the Project Directory
+
+cd Customer-Support-Chatbot
+
+3. Install Dependencies
+
 pip install -r requirements.txt
-```
 
-### Run the application
+4. Configure API Key
 
-```bash
+Set your Gemini API key in Windows PowerShell:
+
+$env:GEMINI_API_KEY="YOUR_API_KEY"
+
+Note: Keep your API key confidential. Never commit sensitive credentials to GitHub.
+
+5. Start the Application
+
 python app.py
-```
 
-### Open in Browser
+6. Access the Application
 
-```
+Open your browser and visit:
+
 http://127.0.0.1:5000
-```
 
 ---
 
-## Workflow
+Future Enhancements
 
-1. User opens the chatbot.
-2. User enters a question.
-3. Flask receives the request.
-4. The AI model processes the message.
-5. The chatbot generates a response.
-6. The response is displayed on the screen.
-
----
-
-## Output
-
-- AI-generated responses
-- Interactive customer support
-- Fast and accurate replies
+- User authentication and account management.
+- Database integration for conversation and ticket storage.
+- Advanced ticket tracking and management.
+- Administrative dashboard.
+- Improved AI response accuracy.
+- Cloud deployment.
+- Multilingual support.
 
 ---
 
-## Future Improvements
+Learning Outcomes
 
-- Support ticket generation
-- Chat history
-- User login system
-- Database integration
-- Voice support
-- Multi-language support
+Through this project, practical knowledge was gained in Python programming, Flask application development, Generative AI integration, API handling, frontend development, and version control.
+
+The project also provided an understanding of integrating AI models into web applications to automate customer interactions and improve support services.
 
 ---
 
-## License
+Developer Information
 
-This project is licensed under the MIT License.
+Janmejaya Choudhury
+
+MCA Student | Aspiring Software Developer
+
+Details| Information
+Project| AI Customer Support Chatbot
+Domain| Generative AI & Agentic AI
+Backend| Python, Flask
+AI Model| Google Gemini AI
+Frontend| HTML, CSS, JavaScript
+Development Tools| Visual Studio Code, Antigravity
+Version Control| Git & GitHub
 
 ---
 
-## Author
+License
 
-**Janmejaya Choudhury**
+This project is licensed under the "MIT License" (LICENSE).
 
-AI Customer Support Chatbot Project (2026)
+---
+
+Developed by Janmejaya Choudhury
